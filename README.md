@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelwnau
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...`fullstack software engineering` (JavaScript, React.js; Python, PostgreSQL, Rust)
+- 🌱 I’m currently learning ...`fullstack software engineer` (JavaScript, React.js; Python, PostgreSQL, Rust)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... michaelwnau AT gmail DOT com
 
