@@ -1,6 +1,6 @@
 - Hi, I’m @michaelwnau
 - I’m interested in ...
-- I’m currently learning ...`fullstack software engineer` (HTML, CSS, JavaScript; Node.js, React.js; Python, C#; PostgreSQL)
+- I’m currently learning ...`fullstack software engineer` (HTML, CSS, JavaScript; Node.js, React.js; Svelte; TailwindCSS; Python; SQL)
 - I’m looking to collaborate on ...
 - How to reach me ... michaelwnau AT gmail DOT com
 
