@@ -1,6 +1,6 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... algorithms, AI/ML, Javascript, Rust, DevOps
-- I’m currently learning ...`fullstack software developer` (HTML, CSS, JavaScript; Node.js, React.js; Svelte; TailwindCSS; Python; SQL).
+- I’m interested in ... algorithms, AI/ML, Rust, DevOps
+- I’m currently learning ...`fullstack software developer` (frontend frameworks, JavaScript & Typescript; Node.js; Python; SQL).
 - I’m looking to collaborate on ...
 - How to reach me ... michaelwnau AT gmail DOT com
 
