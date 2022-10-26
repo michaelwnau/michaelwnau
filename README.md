@@ -1,7 +1,7 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... algorithms, data structures, AI/ML, C, C#, C++, Python, Rust...
-- I’m currently learning ...`fullstack software developer` React, Svelte, JS/JSX/TS; Node.js; Python; SQL).
-- I’m looking to collaborate on ... projects that I can make contributions to, integrations of ML in 1PA
+- I’m interested in ... algorithms & data structures, AI/ML, MLops, C++, Python, Rust...
+- I’m currently learning ...`fullstack software developer` JS/JSX/TS; Next.js, Node.js; Python; SQL.
+- I’m looking to collaborate on ... ML, MLops, 
 - How to reach me ... michaelwnau AT gmail DOT com
 
 <!---
