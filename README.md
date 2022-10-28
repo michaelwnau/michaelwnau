@@ -8,4 +8,4 @@
 michaelwnau/michaelwnau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://wakatime.com/badge/user/170302a1-edc9-474e-95c0-32baadd11d40.svg
+
