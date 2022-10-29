@@ -1,6 +1,6 @@
 - Hi, I’m @michaelwnau
 - I’m interested in ... data structures & algorithms, AI/ML, MLops, C++, Python, Rust...
-- I’m currently learning ...`Backend engineering` Python, MySQL, cloud, DevOps.
+- I’m currently learning ...`Backend engineering` Python, MySQL, PostgreSQL, cloud, DevOps.
 - I’m looking to collaborate on ... ML, MLops, 
 - How to reach me ... michaelwnau AT gmail DOT com
 
