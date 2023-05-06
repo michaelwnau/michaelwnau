@@ -1,5 +1,5 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... DevOps/MLOps/DataOps, Python + Rust, homelabs, GPU/TPU/NVIDIA IoT/edge/sensors & SDKs, pipelines, APIs for AGIs
+- I’m interested in ... DevOps/MLOps/DataOps, Python + Rust, homelabs, pipelines, APIs for AGIs
 - I’m currently building ... tools for building, preparing, and tokenizing datasets. Python tooling for MLOps
 - I’m looking to collaborate on ... extracting value from unrecognized datasets, ML, MLOps/DevOps  
 - How to reach me ... michaelwnau AT gmail DOT com
