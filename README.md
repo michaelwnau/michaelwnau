@@ -1,6 +1,6 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... DevOps/MLOps/DataOps, Python + Rust, homelabs, pipelines, APIs for AGIs
-- I’m currently building ... tools for building, preparing, and tokenizing datasets. Python tooling for MLOps
+- I’m interested in ... DevOps/MLOps/DataOps, Python + Rust + Go, scrapers, homelabs, pipelines, e/acc
+- I’m currently building ... scraping and tokenizing datasets; CV model for zebra mussel id/measurement. Python tooling for MLOps
 - I’m looking to collaborate on ... extracting value from unrecognized datasets, ML, MLOps/DevOps  
 - How to reach me ... michaelwnau AT gmail DOT com
 
