@@ -4,7 +4,6 @@
 - I’m looking to collaborate on ... extracting value from unrecognized datasets, ML, MLOps/DevOps  
 - How to reach me ... michaelwnau AT gmail DOT com
 
-[![wakatime](https://wakatime.com/badge/user/170302a1-edc9-474e-95c0-32baadd11d40.svg)](https://wakatime.com/@170302a1-edc9-474e-95c0-32baadd11d40)
 
 
 <!---
