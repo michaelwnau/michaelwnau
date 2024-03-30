@@ -1,7 +1,7 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... DevOps/MLOps/DataOps, data architecture, Python, Go, scrapers, homelabs, e/acc
-- I’m currently building ... scraping and tokenizing datasets. Python tooling for MLOps
-- I’m looking to collaborate on ... extracting value from unrecognized datasets, ML, MLOps/DevOps  
+- I’m interested in ... MLOps, sensors, AIS & ADS-B, ROS2, data architecture, Python, PYO3, Go, scrapers, e/acc
+- I’m currently building ... 
+- I’m looking to collaborate on ... unstructured data, sets, ML, MLOps/DevOps  
 - How to reach me ... michaelwnau AT gmail DOT com
 
 
