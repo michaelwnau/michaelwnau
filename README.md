@@ -1,7 +1,7 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... MLOps, sensors, data architecture, Python, PyO3, Go, cv/mv, scrapers, e/acc
+- I’m interested in ... MLOps, sensors, data architecture, Python, PyO3, Go, cv/mv, RF/EM/ADS-B/AIS, scrapers, e/acc
 - I’m currently building ... 
-- I’m looking to collaborate on ... unstructured data, sets, ML, MLOps/DevOps  
+- I’m looking to collaborate on ... unstructured datasets, ML, MLOps 
 - How to reach me ... michaelwnau AT gmail DOT com
 
 
