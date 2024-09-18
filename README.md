@@ -1,7 +1,7 @@
 - Hi, I’m @michaelwnau
 - I’m interested in ... 
-- I’m currently building ... ML for industrial plant equipment
-- I’m looking to collaborate on ... ML/AIDR, accelerating defense innovation
+- I’m currently building ... consequential products
+- I’m looking to collaborate on ... consequential problems
 - How to reach me ... michaelwnau AT gmail DOT com
 
 
