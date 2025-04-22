@@ -1,5 +1,5 @@
 - Hi, I’m @michaelwnau
-- I’m interested in ... near futures
+- I’m interested in ... machine learning, research tools, knowledge management systems
 - I’m currently building ... consequential products
 - I’m looking to collaborate on ... meaningful problems
 - How to reach me ... michaelwnau AT gmail DOT com
